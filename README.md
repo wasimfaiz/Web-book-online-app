@@ -1,11 +1,1 @@
-
-
-<br/>
-
-# 💻 Screenshot : 
-
-![Screenshot](screenshot-pc.png)
-
-
-<br/>
-
+Web book is online educational website,
